@@ -57,7 +57,7 @@ The goal is to understand **which states report the highest accidents, which fac
 
 (Example – apne analysis ke hisaab se update kar lena)
 
-* Tamil Nadu and Maharashtra consistently report high accident counts.
+* Rajasthan  and Kerla,Delhi ,Sikkim ,Uttrakhand consistently report high accident counts.
 * Overspeeding is the major cause of accidents across India.
 * Accidents peak during **evening hours (4 PM – 8 PM)** in many states.
 * Vehicle types like **two-wheelers** contribute to significant accident numbers.
